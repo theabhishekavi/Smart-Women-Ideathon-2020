@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1118b729-993e-4db3-9944-8d7542213b6d",
+    "data": [
+      {
+        "text": "Can you suggest a milk product for my growing child?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "937a0e82-8375-472c-b0e9-76501b73bbd4",
+    "data": [
+      {
+        "text": "What is the best product for my growing child?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b007d330-f8fe-4f3c-aa00-6988191aeab1",
+    "data": [
+      {
+        "text": "I would like to explore the nutritional value",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d3f781e-0af5-4bee-bd26-b73be67bbb7d",
+    "data": [
+      {
+        "text": "nutritional values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a4e02e5-a64c-4a44-bb35-0a3c3c1a1b91",
+    "data": [
+      {
+        "text": "Tell me more about the nutritional values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

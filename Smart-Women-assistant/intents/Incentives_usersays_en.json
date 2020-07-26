@@ -1,0 +1,80 @@
+[
+  {
+    "id": "06e15add-6af6-47ca-b625-3865bbc3143f",
+    "data": [
+      {
+        "text": "what type of incentives do you provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8808ffa7-4dcf-4be7-92ca-16a2457f2db1",
+    "data": [
+      {
+        "text": "what kind of incentives do you provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b06febe-6608-4bc1-bb24-1067ca57d1e9",
+    "data": [
+      {
+        "text": "Benefits from selling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa23efee-e898-413e-aad1-0dff3fa57e00",
+    "data": [
+      {
+        "text": "Reward Points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "607c141d-4f42-43f5-8bb8-1038161df0b4",
+    "data": [
+      {
+        "text": "Incentives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73026062-8e26-4f1f-a4a8-ed6c11eda47a",
+    "data": [
+      {
+        "text": "What are the incentives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

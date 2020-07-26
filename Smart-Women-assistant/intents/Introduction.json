@@ -1,0 +1,45 @@
+{
+  "id": "2f64b417-2353-4f9e-99a5-af71f1a6011d",
+  "name": "Introduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Tentu saya akan memandu anda melalui platform ini. Perempuan cerdas Nestle adalah platform pemberdayaan perempuan dan pengembangan kapasitas yang membantu mereka menemukan peluang ekonomi dan membangun jaringan perempuan yang semuanya berkomitmen untuk menjalani kehidupan yang lebih sehat dan lebih bahagia. Wanita dapat belajar tentang produk Nestle, dan belajar tentang program pelatihan mereka tentang cara menjual produk mereka, dan nilai gizi mereka. Yang mana yang ingin Anda jelajahi terlebih dahulu?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure I will guide you through this platform. Nestle\u0027s smart women is a women empowerment and capacity building platform that helps them find economic opportunities and build a network of women who are all committed to leading healthier and happier lives. \nWomen can learn about Nestle’s products, and learn about their training programs on how to sell their products and their nutritional value. \nWhich one would you like to explore first?\nTraining section, Products or the nutritional values?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

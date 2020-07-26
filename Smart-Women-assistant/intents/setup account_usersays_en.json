@@ -1,0 +1,67 @@
+[
+  {
+    "id": "251dfcfe-4ab8-4d6b-bf3d-80b90fcfba4b",
+    "data": [
+      {
+        "text": "How can I create my account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f438547-48d6-4652-b2dc-c18478183ebd",
+    "data": [
+      {
+        "text": "How to setup an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1caa1fe8-aaea-4f0a-a6fe-31426585029a",
+    "data": [
+      {
+        "text": "Yes please guide me on how can I setup my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c96c898b-814e-469e-8167-a12870ff556b",
+    "data": [
+      {
+        "text": "yes I want to know that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62d15fa5-189b-444a-af35-0e599cdfff66",
+    "data": [
+      {
+        "text": "That\u0027s awesome! Please guide me how to setup an account.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
