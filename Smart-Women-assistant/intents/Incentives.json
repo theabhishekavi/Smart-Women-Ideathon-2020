@@ -1,0 +1,45 @@
+{
+  "id": "c62e83cd-1cce-4b1c-bb47-c20757a15910",
+  "name": "Incentives",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Anda bisa mendapat untung 10% sebagai poin hadiah saat Anda menjual produk Nestle. Kami juga memberikan penawaran eksklusif jika Anda bergabung dengan komunitas kami."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You get 10% profit as reward points when you sell Nestle products. We also provide exclusive offers if you join our community."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "c2002c88-ff43-43ec-8cdf-c80bfb939e12",
+  "name": "setup",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

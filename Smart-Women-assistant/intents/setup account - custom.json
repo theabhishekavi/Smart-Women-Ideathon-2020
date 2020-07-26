@@ -1,0 +1,49 @@
+{
+  "id": "17c54685-51b6-4ad1-a765-c2d738b316ea",
+  "parentId": "54d9cc00-9075-40d0-b920-0a35e094f693",
+  "rootParentId": "54d9cc00-9075-40d0-b920-0a35e094f693",
+  "name": "setup account - custom",
+  "auto": true,
+  "contexts": [
+    "setupaccount-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "setupaccount.setupaccount-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I hope you had a good time with us. You can always come back with any queries. We will be happy to guide you."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Saya harap Anda bersenang-senang dengan kami. Anda selalu dapat kembali dengan pertanyaan apa pun. Kami akan dengan senang hati membimbing Anda."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

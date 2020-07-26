@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3c993bc2-fe41-437d-af14-089489995104",
+    "data": [
+      {
+        "text": "I want to know more about this platform",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc2a10ee-ad5c-4f54-8cc5-a0ae51ece33c",
+    "data": [
+      {
+        "text": "yes tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5fda6f9-3f03-4de8-b245-0068a35d87c4",
+    "data": [
+      {
+        "text": "Tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "011c36da-5bfd-4ece-8db2-4a1b86a57429",
+    "data": [
+      {
+        "text": "What\u0027s next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5994348-8998-43e7-842f-e9321d35a1ac",
+    "data": [
+      {
+        "text": "Please tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3cf1442-2b3f-4f3f-a0a7-cd70b79a110f",
+    "data": [
+      {
+        "text": "Please tell me more about this platform",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

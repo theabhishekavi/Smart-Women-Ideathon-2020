@@ -1,0 +1,47 @@
+[
+  {
+    "id": "025c3f2f-1549-4b72-bd43-543d17144512",
+    "data": [
+      {
+        "text": "products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1af12f59-509e-435a-b245-12ac59937f53",
+    "data": [
+      {
+        "text": "produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "61221221-ea1e-472a-9c68-93c5c06c6621",
+    "data": [
+      {
+        "text": "Ceritakan lebih banyak tentang produk nutrisi untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "anak saya",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

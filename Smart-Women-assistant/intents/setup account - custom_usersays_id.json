@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2907594d-d87b-415a-8c82-b74dea966b18",
+    "data": [
+      {
+        "text": "terima kasih sudah membimbing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "efdecd2e-7533-49c1-96e9-8293723c952b",
+    "data": [
+      {
+        "text": "Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]
