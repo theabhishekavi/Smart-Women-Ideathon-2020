@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:smart_women/profile.dart';
 import 'package:smart_women/social_selling.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class Dashboard extends StatefulWidget {
   @override
@@ -16,6 +17,29 @@ class _DashboardState extends State<Dashboard> {
         title: Text(
           'Dashboard',
           style: TextStyle(color: Colors.white),
+        ),
+      ),
+      bottomNavigationBar: Padding(
+        padding: const EdgeInsets.only(bottom: 25.0, right: 25),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.end,
+          children: <Widget>[
+            InkWell(
+              onTap: () {
+                _launchUrl("https://youtu.be/NrFq-bEerMc ");
+              },
+              child: Container(
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(80.0),
+                  child: Image.asset(
+                    'assets/images/logo-voice-chat.png',
+                    width: 60,
+                    height: 60,
+                  ),
+                ),
+              ),
+            )
+          ],
         ),
       ),
       body: Column(
@@ -38,12 +62,11 @@ class _DashboardState extends State<Dashboard> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      ClipRRect(
-                        borderRadius: BorderRadius.circular(80.0),
+                      Container(
                         child: Image.asset(
-                          'assets/images/social-selling.png',
-                          width: 80,
-                          height: 80,
+                          'assets/images/logo social-selling.png',
+                          width: 100,
+                          height: 100,
                           fit: BoxFit.fill,
                         ),
                       ),
@@ -61,12 +84,11 @@ class _DashboardState extends State<Dashboard> {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
-                    ClipRRect(
-                      borderRadius: BorderRadius.circular(80.0),
+                    Container(
                       child: Image.asset(
-                        'assets/images/si_groups.png',
-                        width: 80,
-                        height: 80,
+                        'assets/images/logo- si groups.png',
+                        width: 100,
+                        height: 100,
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -83,12 +105,11 @@ class _DashboardState extends State<Dashboard> {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
-                    ClipRRect(
-                      borderRadius: BorderRadius.circular(80.0),
+                    Container(
                       child: Image.asset(
                         'assets/images/translation.jpg',
-                        width: 80,
-                        height: 80,
+                        width: 100,
+                        height: 100,
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -105,12 +126,11 @@ class _DashboardState extends State<Dashboard> {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
-                    ClipRRect(
-                      borderRadius: BorderRadius.circular(80.0),
+                    Container(
                       child: Image.asset(
-                        'assets/images/member.jpg',
-                        width: 80,
-                        height: 80,
+                        'assets/images/logo member-page.png',
+                        width: 100,
+                        height: 100,
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -127,12 +147,11 @@ class _DashboardState extends State<Dashboard> {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
-                    ClipRRect(
-                      borderRadius: BorderRadius.circular(80.0),
+                    Container(
                       child: Image.asset(
                         'assets/images/information.png',
-                        width: 80,
-                        height: 80,
+                        width: 100,
+                        height: 100,
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -155,12 +174,11 @@ class _DashboardState extends State<Dashboard> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      ClipRRect(
-                        borderRadius: BorderRadius.circular(80.0),
+                      Container(
                         child: Image.asset(
-                          'assets/images/profile_images.png',
-                          width: 80,
-                          height: 80,
+                          'assets/images/logo profile.png',
+                          width: 100,
+                          height: 100,
                           fit: BoxFit.fill,
                         ),
                       ),
@@ -228,5 +246,11 @@ class _DashboardState extends State<Dashboard> {
         ],
       ),
     );
+  }
+
+  _launchUrl(String url) async {
+    if (await canLaunch(url)) {
+      await launch(url);
+    }
   }
 }
