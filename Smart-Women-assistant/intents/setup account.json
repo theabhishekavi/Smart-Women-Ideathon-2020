@@ -1,0 +1,50 @@
+{
+  "id": "54d9cc00-9075-40d0-b920-0a35e094f693",
+  "name": "setup account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "setupaccount-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Itu hebat! Anda hanya perlu pergi ke halaman daftar untuk memberikan rincian anda, yang meliputi Nama Lengkap dan Telepon Anda. Anda sedang dalam perjalanan untuk menjadi Smart Woman!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That’s great! You just need to go to the Sign Up page to provide your details, which include your Full Name and Phone Number. You are on your way to becoming a Smart Woman"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

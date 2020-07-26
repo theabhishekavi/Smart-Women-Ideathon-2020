@@ -1,0 +1,60 @@
+{
+  "id": "b3c6b3a1-0df7-41f3-ba26-c225270e7588",
+  "name": "nutritional value",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "88cdaad3-9c8d-48d5-a4a6-595db214c0fc",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Milo adalah suplemen terbaik untuk pertumbuhan tubuh anak.\n\nVitamin dan mineral penting dalam produk Milo meliputi:\nkalsium untuk gigi dan tulang yang kuat\nvitamin A untuk penglihatan sehat\nvitamin C untuk menjaga kulit dan gusi dalam kondisi yang baik"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nestle\u0027s milo is the best supplement for a child’s growing body. \n\nEssential vitamins and minerals in Milo products include:\ncalcium for strong teeth and bones\nvitamin A for healthy eyesight\nvitamin C to keep skin and gums in good shape"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

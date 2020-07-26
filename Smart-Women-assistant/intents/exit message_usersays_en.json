@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b62de861-56a0-4861-8c88-8ea9c7fe516d",
+    "data": [
+      {
+        "text": "Thanks for guiding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "112d9882-a370-4619-9ff7-234690790b94",
+    "data": [
+      {
+        "text": " I want to exit the app now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9766a8ab-6b97-48fc-9655-fbb9c8234603",
+    "data": [
+      {
+        "text": "Thanks for guiding. I want to exit the app now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
