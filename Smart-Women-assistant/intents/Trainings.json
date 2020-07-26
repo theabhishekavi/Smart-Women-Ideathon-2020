@@ -1,0 +1,79 @@
+{
+  "id": "332b22b9-476f-4a57-8f85-2734d6e61804",
+  "name": "Trainings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0869f3f3-d782-4647-8780-d3fd7d0c758d",
+          "name": "training",
+          "required": true,
+          "dataType": "@training",
+          "value": "training",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I would like to know about traing"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0a828abe-9f13-4f4b-a896-b103004e9281",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Nestle\u0027s Smart Women menawarkan kepada anda pelatihan terbaik di mana Anda dapat belajar cara menjual produk dan menargetkan pelanggan dari rekan anda dan dari Nestle. Anda juga bisa menjadi Duta Nestle atau penjual terverifikasi. Anda akan belajar cara mendapatkan insentif pada produk yang anda jual"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nestle\u0027s Smart Women offers you the best training platform where you can learn how to sell products and target customers from your peers and from Nestle. You can also become a Nestle Ambassador or a verified seller. You will learn how to get incentives on the products you sold."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

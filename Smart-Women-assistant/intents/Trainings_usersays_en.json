@@ -1,0 +1,138 @@
+[
+  {
+    "id": "98c36439-af83-47a2-9983-439b697c069e",
+    "data": [
+      {
+        "text": "Is there any training required for this job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e70f428c-011c-424d-89de-d5d2aa074d41",
+    "data": [
+      {
+        "text": "How can I sell Nestle products in my community?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "298d67a4-ac6a-4211-a655-0e3a95fc551e",
+    "data": [
+      {
+        "text": "I would like to explore training section ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a18a7686-bbd8-4207-98c4-7bda6f4609ab",
+    "data": [
+      {
+        "text": "What are the skills required?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c85a809-b029-4c34-b55b-8af63ebf9f7d",
+    "data": [
+      {
+        "text": "procedure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ea95a63-ca8b-4e55-8f5a-a9485cfcac08",
+    "data": [
+      {
+        "text": "trainings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "224ebb4d-f652-4af6-aec9-a1b4cc4e8c7a",
+    "data": [
+      {
+        "text": "training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9849519a-a350-4793-a907-39c581d832dd",
+    "data": [
+      {
+        "text": "I would like to explore training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a39e943-a953-428d-a2d4-a508c7f236ae",
+    "data": [
+      {
+        "text": "I would like to know more about trainings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdd7e2c7-1884-4096-a236-a7b469a379bf",
+    "data": [
+      {
+        "text": "I would like to know about trainings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

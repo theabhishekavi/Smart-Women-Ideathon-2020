@@ -1,0 +1,54 @@
+[
+  {
+    "id": "151b9f63-be4c-4c51-8f38-1ce6baf27706",
+    "data": [
+      {
+        "text": "Tell me more about a nutritional product for my child",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e3c9f75-8537-40f1-be71-3250c14d31c9",
+    "data": [
+      {
+        "text": "latest products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfcf812a-ad4c-4e67-9d1d-f4ff091baa8b",
+    "data": [
+      {
+        "text": "products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41799f89-d23b-4296-9099-73985a63e941",
+    "data": [
+      {
+        "text": "Tell me more about the Nestle products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

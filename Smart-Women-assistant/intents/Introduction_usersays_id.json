@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0ea85fe5-c29a-43a1-b32c-efb37f912ad2",
+    "data": [
+      {
+        "text": "platform",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "32348782-8164-4157-9728-1bd337bc662a",
+    "data": [
+      {
+        "text": "ceritakan lebih banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e00c243e-e292-4f9b-87f0-b3674e743816",
+    "data": [
+      {
+        "text": "Saya ingin tahu lebih banyak tentang platform ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dbcb7bab-27d7-4bd2-901c-155669e48ef6",
+    "data": [
+      {
+        "text": "Saya ingin tahu lebih banyak tentang platform.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

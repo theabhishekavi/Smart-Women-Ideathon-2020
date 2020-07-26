@@ -1,0 +1,9 @@
+{
+  "id": "b71b511c-44ca-4975-9a02-1288de5927e1",
+  "name": "sys.ordinal",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

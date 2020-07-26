@@ -1,16 +1,9 @@
-# smart_women
+# Smart-Women
 
-A new Flutter project.
+## Project Name: Smart Women Ideathon 2020
+ 
+Blurb: Women Empowerment Network
+ 
+Description: Smart Women is a women empowerment platform that enables women to become self-reliant and be community influencers in Indonesia. Women can contribute to the food and nutritional value chain as brand ambassadors that shape consumer behavior or as sellers and distributors of Nestle’s products in their communities. It’s voice-enabled chatbot assists women with low-digital literacy to find solutions in their local language. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- We have an Android application and a bilingual vitual assistant that offers Indonesian and English Language.
